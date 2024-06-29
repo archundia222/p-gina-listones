@@ -92,3 +92,71 @@ header li a:hover{
     position: relative;
     top:50vh;
 }
+.article-2 {
+    position:relative;
+    display: flex;
+    width: 100%;
+    height: 110vh;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 35rem;
+    width: 50rem; */
+    height: 70%;
+    width: 60%;
+    border: 2px solid black ;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.caja {
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    /* width: 15rem;
+    height: 15rem; */
+    width: 30%;
+    height: 45%;
+    color:black;
+    border: 2px solid black ;
+    border-radius: 10px;
+}
+.caja-1 {
+    background-image: url("../img/perromoño1.jpg");
+    background-size: 120%;
+    background-repeat: no-repeat;
+    background-position: 100% center;
+}
+.caja-2 {
+    background-image: url("../img/perromoño2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:center 10%;
+}
+.caja-3 {
+    background-image: url("../img/perromoño3.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.caja-4 {
+    background-image: url("../img/perromoño4.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.caja-5 {
+    background-image: url("../img/perromoño5.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.caja-6 {
+    background-image: url("../img/perromoño6.jpg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position:center;
+}
